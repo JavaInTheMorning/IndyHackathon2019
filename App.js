@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, Button, Route, Alert, Header } from 'react-native';
 import { createStackNavigator, createAppContainer } from 'react-navigation';
-import SignIn from './SignIn';
-import Register from './Register'
-import Splash from './Splash';
-import Dashboard from './Dashboard';
+import SignIn from './Components/Login/SignIn';
+import Register from './Components/Login/Register'
+import Splash from './Components/Splash';
+import Dashboard from './Components/Dashboard/Dashboard';
 import Resources from './Resources';
 import Sidebar from './Sidebar';
 
