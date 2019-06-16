@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 1372,
+  "expoServerNgrokUrl": "https://d9-3hy.anonymous.indyhackathon2019.exp.direct",
+  "packagerNgrokUrl": "https://packager.d9-3hy.anonymous.indyhackathon2019.exp.direct",
+  "ngrokPid": 22988
 }
